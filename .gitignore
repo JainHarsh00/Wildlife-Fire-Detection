@@ -10,10 +10,6 @@ patches/
 qa_overlays/
 data/
 
-# Model files
-models/
-
-
 
 
 # Anaconda
